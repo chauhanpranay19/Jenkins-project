@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <a href="https://100jsprojects.com" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">HTML CSS JavaScript Projects</a>
 
 This is the source code of the website: <a href="https://100jsprojects.com" style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">100 HTML CSS JavaScript Projects</a>
@@ -13,3 +14,6 @@ This is the source code of the website: <a href="https://100jsprojects.com" styl
   <p style="font-size: 1.1rem; line-height: 1.5; margin-bottom: 20px;">If you have any questions, please feel free to contact me through my email: codewithsahand@gmail.com </p>
   <a href="https://100jsprojects.com"  style="background-color: #1a73e8; color: white; font-weight: bold; padding: 10px 20px; border-radius: 5px; text-decoration: none;">Visit my website</a>
 </div>
+=======
+# Jenkins-project
+>>>>>>> 6e604a68b400cb40f16f744b2c5359b80e12d9cf
