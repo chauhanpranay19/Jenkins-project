@@ -1,0 +1,36 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage('Clone Repository') {
+            steps {
+                git 'https://github.com/Harsh-Govil/HTML-CSS-JavaScript-projects-for-beginners.git'
+            }
+        }
+
+        stage('Build') {
+            steps {
+                // No build step for this project, so we just echo
+                echo 'Build step placeholder'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Test step placeholder (no tests available)'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploy step placeholder'
+            }
+        }
+    }
+
+    post {
+        always {
+            echo 'Pipeline execution completed.'
+        }
+    }
+}
